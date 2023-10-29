@@ -1,4 +1,5 @@
 [
+  { "name": "Jee", "color": "cae309", "hat": 4 },
   { "name": "Madao%20%E1%83%93", "color": "00fa9a" },
   { "name": "madao%20%E1%83%93", "color": "00fa9a" },
   { "name": "Mesh", "color": "14279b" },
@@ -20,5 +21,5 @@
   { "name": "Wyzard", "color": "b1700f" },
   { "name": "elipsoe", "color": "050402" },
   { "name": "angel%2C%2C", "color": "b1700f" },
-  { "name": "Jee", "color": "cae309", "hat": 4 }
+  { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" }
 ]
