@@ -24,6 +24,6 @@
   { "name": "spider", "color": "FF0000" },
   { "name": "Vair", "color": "ff0000" },
   { "name": "%E0%B9%96%DB%A3%DB%9C%D0%BA%CE%B1%D1%8F%D0%BC%CE%B1%E0%BC%BB%E2%84%A2%E4%B8%80%E3%9F%BC%20%E2%9D%A5", "color": "d40afc", "hat": 9 },
-  { "name": "Spooky%20Karma", "color": "ed40d6", "hat": 8 },
+  { "name": "Spooky%20Karma", "color": "ed40d6", "hat": 6 },
   { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" }
 ]
