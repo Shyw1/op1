@@ -4,7 +4,7 @@
   { "name": "madao%20%E1%83%93", "color": "00fa9a" },
   { "name": "Mesh", "color": "14279b" },
   { "name": "%C6%AChroxy%E0%BC%84", "color": "14279b" },
-  { "name": "%F0%9F%92%A3", "color": "0a7bf5" },
+  { "name": "%F0%9F%92%A3", "color": "0a7bf5", "hat": 6 },
   { "name": "kng", "color": "e30e0e" },
   { "name": "%F0%9D%90%91%20%F0%9D%90%94%20%F0%9D%90%85%20%F0%9D%90%94%20%F0%9D%90%99%E2%99%93", "color": "ffa500" },
   { "name": "%F0%9D%90%91%20%F0%9D%90%94%20%F0%9D%90%85%20%F0%9D%90%94%20%F0%9D%90%99%E2%99%8B", "color": "8b008b" },
@@ -28,5 +28,6 @@
   { "name": "darklight.", "color": "006fde" },
   { "name": "%2C%2C%7C%2C%2C", "color": "0078c2" },
   { "name": "%22%7C%22", "color": "00d281" },
+  { "name": "zxz", "hat": 3 },
   { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" }
 ]
