@@ -35,5 +35,7 @@
   { "name": "%F0%9D%95%BD%F0%9D%96%94%F0%9D%96%98%F0%9D%96%8A%20%3A%2F", "color": "800080" },
   { "name": "usivannn", "color": "FF0000" },
   { "name": "%F0%9D%99%8E%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9E%E1%85%A0%20%20%E1%9B%83", "color": "7A17F9" },
+  { "name": "%E3%80%88%E9%9B%AF%E3%80%89%F0%9D%93%93ot", "color": "000000" },
+  { "name": "Dark", "color": "000000" },
   { "name": "neair%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%82%AC", "color": "ffff00" }
 ]
